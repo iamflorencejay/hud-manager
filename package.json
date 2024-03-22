@@ -31,7 +31,7 @@
     "query-string": "^6.12.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^4.0.0",
+    "react-scripts": "^5.0.1",
     "react-select-country-list": "^2.1.2",
     "reactstrap": "^8.4.1",
     "registry-js": "^1.12.0",
