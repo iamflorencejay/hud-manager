@@ -18,7 +18,7 @@
     "csgogsi": "^1.2.6",
     "csgogsi-socket": "^1.2.8",
     "decompress-zip": "^0.2.2",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "get-port": "^5.1.1",
     "ip": "^1.1.5",
     "json5": "^2.1.3",
